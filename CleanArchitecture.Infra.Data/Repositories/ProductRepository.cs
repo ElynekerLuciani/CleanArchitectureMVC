@@ -54,20 +54,5 @@ namespace CleanArchitecture.Infra.Data.Repositories
             await _productContext.SaveChangesAsync();
             return product;
         }
-
-        Task<Category> IProductRepository.CreateAsync(Product product)
-        {
-            throw new NotImplementedException();
-        }
-
-        Task<Category> IProductRepository.RemoveAsync(Product product)
-        {
-            throw new NotImplementedException();
-        }
-
-        Task<Category> IProductRepository.UpdateAsync(Product product)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
