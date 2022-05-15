@@ -13,8 +13,8 @@ namespace CleanArchitecture.Domain.Interfaces
         Task<Product> GetByIdAsync(int? id);
         Task<Product> GetProductCategoryAsync(int? id);
 
-        Task<Category> CreateAsync(Product product);
-        Task<Category> UpdateAsync(Product product);
-        Task<Category> RemoveAsync(Product product);
+        Task<Product> CreateAsync(Product product);
+        Task<Product> UpdateAsync(Product product);
+        Task<Product> RemoveAsync(Product product);
     }
 }
