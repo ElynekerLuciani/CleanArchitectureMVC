@@ -12,8 +12,11 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.IoC", "CleanArchitecture.IoC\CleanArchitecture.IoC.csproj", "{DD6AB6D2-529B-4E3B-973C-E716D4C3705B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.WebUI", "CleanArchitecture.WebUI\CleanArchitecture.WebUI.csproj", "{173BDBB1-5B9C-42AA-B15C-5763FA9223AE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DD6AB6D2-529B-4E3B-973C-E716D4C3705B} = {DD6AB6D2-529B-4E3B-973C-E716D4C3705B}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Domain.Tests", "CleanArchitecture.Domain.Tests\CleanArchitecture.Domain.Tests.csproj", "{FEF5DB7A-9349-4638-BAA5-D77C2A5734C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Domain.Tests", "CleanArchitecture.Domain.Tests\CleanArchitecture.Domain.Tests.csproj", "{FEF5DB7A-9349-4638-BAA5-D77C2A5734C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
