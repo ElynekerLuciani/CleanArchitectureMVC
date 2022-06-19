@@ -9,20 +9,20 @@ namespace CleanArchitecture.Domain.Entities
 {
     public sealed class Product : BaseEntity
     {
-        public string Name { get; private set; }
-        public string Description { get; private set; }
+        public string Name { get; private set; } = null!;
+        public string Description { get; private set; } = null!;
         public decimal Price { get; private set; }
         public int Stock { get; private set; }
-        public string Image { get; private set; }
+        public string? Image { get; private set; }
         public int CategoryId { get; set; }
-        public Category Category { get; set; }
+        public Category Category { get; set; } = null!;
 
-        public Product(string name, string description, decimal price, int stock, string image)
+        public Product(string name, string description, decimal price, int stock, string? image)
         {
             ValidateDomain(name, description, price, stock, image);
         }
 
-        public Product(int id, string name, string description, decimal price, int stock, string image)
+        public Product(int id, string name, string description, decimal price, int stock, string? image)
         {
             DomainExceptionValidation.When(id < 0, "Invalid Id value");
 
@@ -30,7 +30,7 @@ namespace CleanArchitecture.Domain.Entities
             ValidateDomain(name, description, price, stock, image);
         }
 
-        private void ValidateDomain(string name, string description, decimal price, int stock, string image)
+        private void ValidateDomain(string name, string description, decimal price, int stock, string? image)
         {
             DomainExceptionValidation.When(string.IsNullOrEmpty(name), "Invalid name. Name is required");
             DomainExceptionValidation.When(name.Length < 3, "Invalid name, too short minimum 3 characters");

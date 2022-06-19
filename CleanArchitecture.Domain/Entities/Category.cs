@@ -9,7 +9,7 @@ namespace CleanArchitecture.Domain.Entities
 {
     public sealed class Category : BaseEntity
     {
-        public string Name { get; private set; }
+        public string Name { get; private set; } = null!;
         public ICollection<Product>? Products { get; private set; }
 
         public Category(string name)
