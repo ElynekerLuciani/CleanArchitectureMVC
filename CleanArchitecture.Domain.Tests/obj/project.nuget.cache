@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IryWrJJ5jTwMeuvtQSr0aSnMoB3s/nEEGpeAyYOr8ewZZxFm4cX8rz2C+I+UN6Vc1afaSeyVPWKZO6kByHj0vQ==",
+  "dgSpecHash": "W3Raccvgugz0OEJOHddjvaJUWUnqOimKfXHvRXkkT2Gql+ggglQ1DW0yN1AJuInNXxYcUU5+ki9diO7v8LC45g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Elyneker\\Documents\\Workspace\\CleanArchitectureMVC\\CleanArchitecture.Domain.Tests\\CleanArchitecture.Domain.Tests.csproj",
   "expectedPackageFiles": [

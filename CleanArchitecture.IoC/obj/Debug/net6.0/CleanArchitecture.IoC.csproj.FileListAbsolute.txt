@@ -1,4 +1,5 @@
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.IoC.deps.json
+C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.IoC.runtimeconfig.json
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.IoC.dll
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.IoC.pdb
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.Domain.dll
@@ -14,6 +15,5 @@ C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\obj\Debug\net6.0\CleanArchitecture.IoC.dll
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\obj\Debug\net6.0\refint\CleanArchitecture.IoC.dll
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\obj\Debug\net6.0\CleanArchitecture.IoC.pdb
-C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\obj\Debug\net6.0\ref\CleanArchitecture.IoC.dll
-C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.IoC.runtimeconfig.json
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\obj\Debug\net6.0\CleanArchitecture.IoC.genruntimeconfig.cache
+C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\obj\Debug\net6.0\ref\CleanArchitecture.IoC.dll
