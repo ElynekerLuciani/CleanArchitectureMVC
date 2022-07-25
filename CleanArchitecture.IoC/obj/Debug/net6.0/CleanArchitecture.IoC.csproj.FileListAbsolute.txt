@@ -2,8 +2,10 @@ C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.IoC.runtimeconfig.json
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.IoC.dll
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.IoC.pdb
+C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.Application.dll
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.Domain.dll
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.Infra.Data.dll
+C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.Application.pdb
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.Infra.Data.pdb
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
 C:\Users\Elyneker\Documents\Workspace\CleanArchitectureMVC\CleanArchitecture.IoC\obj\Debug\net6.0\CleanArchitecture.IoC.csproj.AssemblyReference.cache

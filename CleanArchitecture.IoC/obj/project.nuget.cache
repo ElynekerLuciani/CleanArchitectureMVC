@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dxYv1ujkMl0OIePqWfKCCdSQo/5DFwpLNOu+BAaAn0FtS8vfjFRQplADKzMX75PrzzRN/qtmZOoBD7+9ByIe0g==",
+  "dgSpecHash": "SIg7ey5fkMrgKEyED8cblMaMiuiXzJXHXnmXOnpX+aniduUOOnUI3k1JP02G97F6rt30cJX+xA/ZePNuW6rVsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Elyneker\\Documents\\Workspace\\CleanArchitectureMVC\\CleanArchitecture.IoC\\CleanArchitecture.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Elyneker\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Elyneker\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Elyneker\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Elyneker\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Elyneker\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
     "C:\\Users\\Elyneker\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
     "C:\\Users\\Elyneker\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.5\\microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
