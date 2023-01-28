@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "quCsQaa7zKtu+2y8Q5ErzAg2WuCJ9DQR8SYnK08Wq/XQkQonnN5RCM6kocw/y6SW0GdLqDMeDz8MoY3d8DlfbQ==",
+  "dgSpecHash": "VB2I+gIZnf9j+uG3R2YxtlDvckX2V35xWVoOAWBz07VX0OKTRHJSOYlf6ioZ/5S/AFrqdR2IUjou4lwbOAxaQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elyneker\\Documents\\Workspace\\CleanArchitectureMVC\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Elyneker\\source\\repos\\ElynekerLuciani\\CleanArchitectureMVC\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

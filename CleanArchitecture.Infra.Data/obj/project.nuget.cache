@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AO6MCbpaheN2HxWc2UMx4h7SrlN7yQGDaXfB3sGbA6zNwlM8kwTUVxARorBhRR3nvgWreYpHr+9lO1boLlqSTQ==",
+  "dgSpecHash": "2/HiEalWuDmjcqvGxc4S1BRbjtUq79y3Tk4Yw/ddMpLxdUPGNdm+0cvQ0Sie0l6qCYa0NkdkredMr0k+BPlM0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elyneker\\Documents\\Workspace\\CleanArchitectureMVC\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Elyneker\\source\\repos\\ElynekerLuciani\\CleanArchitectureMVC\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elyneker\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Elyneker\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",

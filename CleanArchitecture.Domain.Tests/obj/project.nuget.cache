@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IryWrJJ5jTwMeuvtQSr0aSnMoB3s/nEEGpeAyYOr8ewZZxFm4cX8rz2C+I+UN6Vc1afaSeyVPWKZO6kByHj0vQ==",
+  "dgSpecHash": "IYiQTXTrRkeWN9wpt8UgZX1n5EqaHK0aSUh+Xq88934sJ2Ns0V7jXLsokfap0ApRhKD7NdqWOODY7Ox7hGVlEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elyneker\\Documents\\Workspace\\CleanArchitectureMVC\\CleanArchitecture.Domain.Tests\\CleanArchitecture.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Elyneker\\source\\repos\\ElynekerLuciani\\CleanArchitectureMVC\\CleanArchitecture.Domain.Tests\\CleanArchitecture.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elyneker\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Elyneker\\.nuget\\packages\\fluentassertions\\6.6.0\\fluentassertions.6.6.0.nupkg.sha512",
